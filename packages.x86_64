@@ -140,7 +140,7 @@ noto-fonts
 usb_modeswitch
 usbmuxd
 usbutils
-# vim
+vim
 wireless-regdb
 wireless_tools
 wget
